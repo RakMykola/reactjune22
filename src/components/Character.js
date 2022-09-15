@@ -9,7 +9,7 @@ export default function Character (props) {
 
                 <h2>{character.gender}</h2>
                 <h2>{character.species}</h2>
-                <img src="{character.image}"/>
+                <img src={character.image}/>
         </div>
     );
 }
