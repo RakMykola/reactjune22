@@ -1,9 +1,10 @@
-import Characters from "./components/Characters";
+import PersonagesAll from "./components/personagesAll";
+
 function App() {
   return (
     <div>
       <h1>Hello les1</h1>
-      <Characters/>
+      <PersonagesAll/>
     </div>
   );
 }
